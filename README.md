@@ -1,4 +1,4 @@
-### //🐝 
+### //🐝 jarret bryan is a web developer and creative technologist
 
 ```ruby
 
