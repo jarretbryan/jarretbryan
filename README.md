@@ -1,4 +1,13 @@
-### Hi there 👋
+### //🐝 
+
+```ruby
+
+class Black < NilClass
+  def initialize(being={})
+    @consent = true unless being.count <= 1
+  end
+end
+```
 
 <!--
 **jarretbryan/jarretbryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
