@@ -4,7 +4,7 @@
 
 class Black < NilClass
   def initialize(being={})
-    @consent = true unless being.count <= 1
+    @consent = true unless being[:count] <= 1
   end
 end
 ```
